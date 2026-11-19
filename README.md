@@ -228,16 +228,21 @@ Le laboratoire propose des simulations interactives dans le terminal :
 1. Pipeline du CPU
    Affichage etape par etape : FETCH, DECODE, EXECUTE, WRITE-BACK.
 
-2. Ordonnancement de processus (FIFO)
-   Simulation de l'execution sequentielle de plusieurs processus.
+   https://www.meshy.ai/fr/posts/019eb4c0-0550-7533-982d-dbfa944b5a02
 
-3. Demonstration de threads
+   https://claude.ai/artifact/EyS7FjQq1ixMbWA7AZTXes
+
+3. Ordonnancement de processus (FIFO)
+   Simulation de l'execution sequentielle de plusieurs processus.
+   
+
+4. Demonstration de threads
    Lancement simultane de plusieurs threads avec affichage de progression.
 
-4. Visualisation de la memoire RAM
+5. Visualisation de la memoire RAM
    Representation graphique de la repartition memoire (OS, applications, swap).
 
-5. Arbre de systeme de fichiers
+6. Arbre de systeme de fichiers
    Affichage d'une structure de fichiers Linux type : /, /home, /etc, /var, /usr.
 
 Quiz et achievements
