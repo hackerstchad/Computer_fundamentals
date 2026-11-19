@@ -1,3 +1,6 @@
+<img width="1248" height="832" alt="OIG2 k83" src="https://github.com/user-attachments/assets/90bc7fc9-91ae-4607-864f-0a48fbfbbde6" />
+
+
 <!-- ===================================================================== -->
 <!--   COM FUN - Computer Fundamentals | أساسيات المعلوماتية               -->
 <!--   Auteur  : hackerstchad                                              -->
@@ -11,7 +14,6 @@ COM FUN - Computer Fundamentals
     Auteur  : hackerstchad
     Version : 2026/2027
     Langues : Francais / Arabe
-    Lignes  : 2000+ lignes de code Python
 
 Description
 -----------
@@ -344,11 +346,6 @@ Feuille de route
     [OK] Sauvegarde de progression
     [OK] Systeme de succes
     [OK] Interface bilingue FR/AR
-    [  ] Mode sombre / clair
-    [  ] Export PDF des lecons
-    [  ] Version web avec Flask
-    [  ] Support audio / vocal
-    [  ] Certificat de completion
 
 Auteur et credits
 -----------------
